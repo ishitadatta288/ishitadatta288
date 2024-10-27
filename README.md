@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ishitadatta288
+- 👋 Hi, I’m Ishita Datta
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning cryptograohy and system programming languages
 - 💞️ My hobby is dancing,drawing.
-- 😄 
+- 😄 Frontend Developer
 - 
 
 <!---
