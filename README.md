@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishita Datta
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, graphic designing, fullstack development
 - 🌱 I’m currently learning cryptograohy and system programming languages
 - 💞️ My hobby is dancing,drawing.
 - 😄 Frontend Developer
